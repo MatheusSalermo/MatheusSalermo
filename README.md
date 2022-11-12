@@ -1,6 +1,6 @@
 - 👋 Olá, eu me chamo Matheus Salermo
 - 👀 Sou estudante de Desenvolvimento de Sistemas, focado em desenvolvimento para Web e Mobile (Full Stack)
-- 🌱 Estou cursando o último ano do curso técnico de Desenvolvimento de sistemas, e pretendo seguir na área com curso superior
+- 🌱 Estou cursando Bacharelado em Sistemas de Informação na EACH-USP
 - 💞️ Busco compartilhar meus projetos e encontras pessoas com que eu possa dividir conhecimentos, e vagas para aplicar minhas habilidades técnicas e pessoais.
 - 📫 Entre em contato comigo em:
 
